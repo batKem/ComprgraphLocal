@@ -1,0 +1,12 @@
+//motié ajouté ... conversion c code
+https://github.com/devdad/SimplexNoise/blob/master/Source/SimplexNoise/Private/SimplexNoiseBPLibrary.cpp
+
+
+https://gist.github.com/KdotJPG/b1270127455a94ac5d19
+
+
+https://www.reddit.com/r/proceduralgeneration/comments/2rves3/fun_with_4d_noise/
+
+
+//snoise: ajouté
+https://github.com/ashima/webgl-noise/blob/master/src/noise4D.glsl
